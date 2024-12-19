@@ -40,11 +40,11 @@
 
         default_layer {
             bindings = <
-   &none           &none         &none       &none   &none   &none               &none                                                                 &to 1   &none   &none      &none                &none      &none     &none
- &kp TAB  &kp APOSTROPHE     &kp COMMA  &kp PERIOD   &kp P   &kp Y               &none                                                                 &none   &kp F   &kp G      &kp C                &kp R      &kp L  &kp BSLH
- &kp ESC           &kp A         &kp O       &kp E   &kp U   &kp I               &none           &none   &none                   &none      &none      &none   &kp D   &kp H      &kp T                &kp N      &kp S   &kp SQT
-   &none   &kp SEMICOLON         &kp Q       &kp J   &kp K   &kp X                                       &none                   &none                         &kp B   &kp M      &kp W                &kp V      &kp Z  &kp FSLH
-   &none           &none  &kp LEFT_GUI       &none   &none                    &kp BSPC  &kp LEFT_SHIFT   &mo 3                   &mo 4  &kp ENTER  &kp SPACE           &none  &kp RCTRL  &macro_apple_search  &kp EQUAL     &none
+   &none           &none      &none         &none   &none   &none               &none                                                                 &to 1   &none   &none      &none               &none      &none     &none
+ &kp TAB  &kp APOSTROPHE  &kp COMMA    &kp PERIOD   &kp P   &kp Y               &none                                                                 &none   &kp F   &kp G      &kp C               &kp R      &kp L  &kp BSLH
+ &kp ESC           &kp A      &kp O         &kp E   &kp U   &kp I               &none           &none   &none                   &none      &none      &none   &kp D   &kp H      &kp T               &kp N      &kp S   &kp SQT
+   &none   &kp SEMICOLON      &kp Q         &kp J   &kp K   &kp X                                       &none                   &none                         &kp B   &kp M      &kp W               &kp V      &kp Z  &kp FSLH
+   &none           &none      &none  &kp LEFT_GUI   &none                    &kp BSPC  &kp LEFT_SHIFT   &mo 3                   &mo 4  &kp ENTER  &kp SPACE           &none  &kp RCTRL  &mt LEFT_GUI SPACE  &kp EQUAL     &none
             >;
         };
 

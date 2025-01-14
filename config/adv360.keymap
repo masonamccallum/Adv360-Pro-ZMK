@@ -60,11 +60,11 @@
 
         layer_Arrows {
             bindings = <
- &trans  &trans  &trans        &trans          &trans  &trans            &trans                                                  &trans  &trans          &trans  &trans  &trans           &trans  &trans
- &trans   &to 0   &to 0         &to 0           &to 0   &to 0             &to 0                                                   &to 0   &to 0           &to 0   &to 0   &to 0  &kp RIGHT_ARROW  &trans
- &trans   &to 0   &to 0         &to 0           &to 0   &to 0             &to 0  &trans  &trans                  &trans  &trans   &to 0   &to 0  &kp LEFT_ARROW   &to 0   &to 0            &to 0  &trans
- &trans   &to 0   &to 0  &kp UP_ARROW  &kp DOWN_ARROW   &to 0                            &trans                  &trans                   &to 0           &to 0   &to 0   &to 0            &to 0  &trans
- &trans  &trans  &trans        &trans          &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                  &trans  &trans  &trans           &trans  &trans
+ &trans  &trans  &trans          &trans        &trans  &trans            &trans                                                  &trans  &trans          &trans  &trans  &trans           &trans  &trans
+ &trans   &to 0   &to 0           &to 0         &to 0   &to 0             &to 0                                                   &to 0   &to 0           &to 0   &to 0   &to 0  &kp RIGHT_ARROW  &trans
+ &trans   &to 0   &to 0           &to 0         &to 0   &to 0             &to 0  &trans  &trans                  &trans  &trans   &to 0   &to 0  &kp LEFT_ARROW   &to 0   &to 0            &to 0  &trans
+ &trans   &to 0   &to 0  &kp DOWN_ARROW  &kp UP_ARROW   &to 0                            &trans                  &trans                   &to 0           &to 0   &to 0   &to 0            &to 0  &trans
+ &trans  &trans  &trans          &trans        &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                  &trans  &trans  &trans           &trans  &trans
             >;
         };
 
